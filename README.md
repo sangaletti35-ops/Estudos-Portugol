@@ -1,2 +1,2 @@
 # Estudos-Portugol
-progrmas criados no Portugol
+programas criados no Portugol
