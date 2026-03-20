@@ -1,2 +1,2 @@
 # Estudos-Portugol
-Programa desenvolvido em Portugol para a resolução de uma atividade da disciplina de Lógica de Programação, ministrada pelo professor Teilor Gustavo Golunski no SESI SENAI Concórdia (20/03/2026).
+Programas desenvolvidos em Portugol para a resolução de atividades da disciplina de Lógica de Programação, ministrada pelo professor Teilor Gustavo Golunski no SESI SENAI Concórdia (20/03/2026).
