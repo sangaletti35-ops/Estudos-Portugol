@@ -4,7 +4,7 @@ Este repositório contém meus exercícios e projetos práticos desenvolvidos em
 
 ---
 
-## 🛍️ Projeto: Cálculo de Compras e Troco (Fruteira)
+## 🛍️ Projeto 1: Cálculo de Compras e Troco (Fruteira)
 
 **Objetivo:** Criar um programa para calcular o valor total de compras e o troco para o cliente, focado na clareza do código e boas práticas de nomenclatura.
 
@@ -18,3 +18,19 @@ Este repositório contém meus exercícios e projetos práticos desenvolvidos em
 * Cálculo do valor total e valor do troco.
 * Utilização da biblioteca `Matematica` para arredondamento (2 casas decimais).
 * Nomenclatura de variáveis clara (ex: `precoUnitario`, `valorPago`).
+
+---
+
+## 💧 Projeto 2: Cálculo de Volume de Água
+
+**Objetivo:** Desenvolver um algoritmo com lógica sequencial para calcular o volume exato (em metros cúbicos) necessário para encher um tanque, a partir de suas dimensões geométricas.
+
+* **💻 Ver o Código:** [Clique aqui para abrir o arquivo de código (.por)](./calculo%20de%20volume/Volume%20de%20água%20para%20encher%20tanque.por)
+* **📸 Demonstração em Execução:**
+
+![Demonstração do volume de água](./calculo%20de%20volume/Volume%20da%20água.png)
+
+### ✅ Funcionalidades Implementadas
+* Solicita as três medidas essenciais do tanque (Largura, Comprimento e Profundidade).
+* Realiza a multiplicação sequencial das variáveis.
+* Exibe o resultado final de forma direta no console.
