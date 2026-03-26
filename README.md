@@ -25,10 +25,10 @@ Este repositório contém meus exercícios e projetos práticos desenvolvidos em
 
 **Objetivo:** Desenvolver um algoritmo com lógica sequencial para calcular o volume exato (em metros cúbicos) necessário para encher um tanque, a partir de suas dimensões geométricas.
 
-* **💻 Ver o Código:** [Clique aqui para abrir o arquivo de código (.por)](<./cálculo de volume/Volume de água para encher tanque.por>)
+* **💻 Ver o Código:** [Clique aqui para abrir o arquivo de código (.por)](<./cálculo de volume/quantidade de água para encher tanque.por>)
 * **📸 Demonstração em Execução:**
 
-![Demonstração do volume de água](<./cálculo de volume/Volume da água.png>)
+![Demonstração do volume de água](<./cálculo de volume/amostra.png>)
 
 ### ✅ Funcionalidades Implementadas
 * Solicita as três medidas essenciais do tanque (Largura, Comprimento e Profundidade).
