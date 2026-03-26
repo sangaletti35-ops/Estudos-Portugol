@@ -8,10 +8,10 @@ Este repositório contém meus exercícios e projetos práticos desenvolvidos em
 
 **Objetivo:** Criar um programa para calcular o valor total de compras e o troco para o cliente, focado na clareza do código e boas práticas de nomenclatura.
 
-* **💻 Ver o Código:** [Clique aqui para abrir o arquivo de código (.por)](./Projeto-Fruteira/Compras,%20total%20a%20pagar,%20troco%20a%20receber.por)
+* **💻 Ver o Código:** [Clique aqui para abrir o arquivo de código (.por)](./Projeto-Fruteira/sistema_caixa.por)
 * **📸 Demonstração em Execução:**
 
-![Demonstração do código rodando](./Projeto-Fruteira/Compras,%20total%20a%20pagar,%20total%20a%20receber.png)
+![Demonstração do código rodando](./Projeto-Fruteira/demontracao.png)
 
 ### ✅ Funcionalidades Implementadas
 * Entrada de nome do produto, quantidade e preço unitário.
