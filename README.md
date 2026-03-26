@@ -8,10 +8,10 @@ Este repositório contém meus exercícios e projetos práticos desenvolvidos em
 
 **Objetivo:** Criar um programa para calcular o valor total de compras e o troco para o cliente, focado na clareza do código e boas práticas de nomenclatura.
 
-* **💻 Ver o Código:** [Clique aqui para abrir o arquivo de código (.por)](./Projeto-Fruteira/sistema_caixa.por)
+* **💻 Ver o Código:** [Clique aqui para abrir o arquivo de código (.por)](<./Projeto-Fruteira/sistema_caixa.por>)
 * **📸 Demonstração em Execução:**
 
-![Demonstração do código rodando](./Projeto-Fruteira/demontracao.png)
+![Demonstração do código rodando](<./Projeto-Fruteira/demontracao.png>)
 
 ### ✅ Funcionalidades Implementadas
 * Entrada de nome do produto, quantidade e preço unitário.
@@ -25,10 +25,10 @@ Este repositório contém meus exercícios e projetos práticos desenvolvidos em
 
 **Objetivo:** Desenvolver um algoritmo com lógica sequencial para calcular o volume exato (em metros cúbicos) necessário para encher um tanque, a partir de suas dimensões geométricas.
 
-* **💻 Ver o Código:** [Clique aqui para abrir o arquivo de código (.por)](./cálculo%20de%20volume/Volume%20de%20água%20para%20encher%20tanque.por)
+* **💻 Ver o Código:** [Clique aqui para abrir o arquivo de código (.por)](<./cálculo de volume/Volume de água para encher tanque.por>)
 * **📸 Demonstração em Execução:**
 
-![Demonstração do volume de água](./cálculo%20de%20volume/Volume%20da%20água.png)
+![Demonstração do volume de água](<./cálculo de volume/Volume da água.png>)
 
 ### ✅ Funcionalidades Implementadas
 * Solicita as três medidas essenciais do tanque (Largura, Comprimento e Profundidade).
