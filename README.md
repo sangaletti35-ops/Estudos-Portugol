@@ -18,4 +18,3 @@ Este repositório contém meus exercícios e projetos práticos desenvolvidos em
 * Cálculo do valor total e valor do troco.
 * Utilização da biblioteca `Matematica` para arredondamento (2 casas decimais).
 * Nomenclatura de variáveis clara (ex: `precoUnitario`, `valorPago`).
-
