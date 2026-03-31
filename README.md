@@ -39,14 +39,14 @@ Este repositório contém meus exercícios e projetos práticos desenvolvidos em
 
 ## 💧 Projeto 3: Programa de cálculo de saque e saldo em Portugol
 
-**Objetivo:**Programa criado em Portugol para calcular o valor da conta de um cliente e verificar se um saque é permitido ou negado. Em caso de retirada, o programa atualiza o saldo da conta (saldo anterior menos o valor retirado). O grande foco deste exercício é a aplicação prática das estruturas condicionais: se/senão.
+**Objetivo:** Programa criado em Portugol para calcular o valor da conta de um cliente e verificar se um saque é permitido ou negado. Em caso de retirada, o programa atualiza o saldo da conta (saldo anterior menos o valor retirado). O grande foco deste exercício é a aplicação prática das estruturas condicionais: se/senão.
 
 * **💻 Ver o Código:** [Clique aqui para abrir o arquivo de código (.por)](<./Estruturas condicionais: se e senão/valor da conta, liberação de saque, saldo atual.por>)
   
 * **📸 Demonstração em Execução:**
 
-![ImagemA demonstração de valor de conta insuficiente](<./Estruturas condicionais: se e senão/imagemA.png>)
-![ImagemB demonstração de valor de conta suficiente e atualização do valor atual](<./Estruturas condicionais: se e senão/imagemB.png>)
+![ImagemA demonstração de valor de conta insuficiente: Essa imagem mostra o programa funcionando em um cenário onde o valor da conta é insuficiente](<./Estruturas condicionais: se e senão/imagemA.png>)
+![ImagemB demonstração de valor de conta suficiente e atualização do valor atual:  Essa imagem mostra o programa funcionando em um cenário onde o valor da conta é suficiente](<./Estruturas condicionais: se e senão/imagemB.png>)
 
 ### ✅ Funcionalidades Implementadas
 * Validação de Saque: Verifica se a retirada de dinheiro é permitida ou não.
