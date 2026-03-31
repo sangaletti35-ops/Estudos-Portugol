@@ -4,7 +4,7 @@ Este repositório contém meus exercícios e projetos práticos desenvolvidos em
 
 ---
 
-## 🛍️ Projeto 1: Cálculo de Compras e Troco (Fruteira)
+## 🛍️ Projeto 1: Cálculo de Compras e Troco
 
 **Objetivo:** Criar um programa para calcular o valor total de compras e o troco para o cliente, focado na clareza do código e boas práticas de nomenclatura.
 
@@ -43,7 +43,7 @@ Este repositório contém meus exercícios e projetos práticos desenvolvidos em
 
 * **💻 Ver o Código:** [Clique aqui para abrir o arquivo de código (.por)](<./Estruturas condicionais: se e senão/valor da conta, liberação de saque, saldo atual.por>)
   
-* **📸 Demonstração em Execução:** A imagemA mostra o programa funcionando em um cenário onde o valor da conta é insuficiente. A imagemB mostra o programa funcionando em um cenário onde o valor da conta é suficiente.
+* **📸 Demonstração em Execução:** A primeira imagem mostra o programa funcionando em um cenário onde o valor da conta é insuficiente. A segunda imagem mostra o programa funcionando em um cenário onde o valor da conta é suficiente.
 
 ![ImagemA demonstração de valor de conta insuficiente: Essa imagem mostra o programa funcionando em um cenário onde o valor da conta é insuficiente](<./Estruturas condicionais: se e senão/imagemA.png>)
 ![ImagemB demonstração de valor de conta suficiente e atualização do valor atual:  Essa imagem mostra o programa funcionando em um cenário onde o valor da conta é suficiente](<./Estruturas condicionais: se e senão/imagemB.png>)
