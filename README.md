@@ -49,7 +49,7 @@ Este repositório contém meus exercícios e projetos práticos desenvolvidos em
 ![ImagemB demonstração de valor de conta suficiente e atualização do valor atual:  Essa imagem mostra o programa funcionando em um cenário onde o valor da conta é suficiente](<./Estruturas condicionais: se e senão/imagemB.png>)
 
 ### ✅ Funcionalidades Implementadas
-**Validação de Saque:** Verifica se a retirada de dinheiro é permitida ou não.
-**Atualização de Saldo:** Calcula matematicamente o novo valor da conta após um saque bem-sucedido.
-**Estrutura de Decisão:** Aplicação prática da lógica condicional (se/senão) para controlar o fluxo do programa.
+* Validação de Saque: Verifica se a retirada de dinheiro é permitida ou não.
+* Atualização de Saldo: Calcula matematicamente o novo valor da conta após um saque bem-sucedido.
+* Estrutura de Decisão: Aplicação prática da lógica condicional (se/senão) para controlar o fluxo do programa.
 
