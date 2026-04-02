@@ -1,0 +1,58 @@
+//Faça um programa que recebe a sigla correspondente ao estado que a pessoa mora (ex: RS, SC, PR etc.) e exibe na tela qual é a região geográfica (sul, sudeste e etc.)
+//estado
+//região geográfica
+
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia Estado_Brasil
+
+		escreva ("Digite a abreviação de seu Estado com letra maiúscula ou o nome por extenso respeitando as letras maiúsculas " )
+		leia(Estado_Brasil)
+
+		se (Estado_Brasil == "PR" ou Estado_Brasil == "Paraná" ou Estado_Brasil == "RS" ou Estado_Brasil == "Rio Grande do Sul" 
+		ou Estado_Brasil == "SC" ou Estado_Brasil == "Santa Catarina") {
+			escreva("A sua região geográfica é o Sul do Brasil ")
+			
+		} senao se ( Estado_Brasil == "ES" ou Estado_Brasil == "Espírito Santo" ou Estado_Brasil == "MG" ou 
+		            Estado_Brasil == "Minas Gerais" ou Estado_Brasil == "RJ" ou Estado_Brasil == "Rio de Janeiro" ou 
+		            Estado_Brasil == "SP" ou Estado_Brasil == "São Paulo") {
+			escreva("A sua região geográfica é o Suldeste do Brasil ")
+			
+		} senao se (Estado_Brasil == "MS" ou Estado_Brasil == "Mato Grosso do Sul" ou Estado_Brasil == "MT" ou 
+		            Estado_Brasil == "Mato Grosso" ou Estado_Brasil == "GO" ou Estado_Brasil == "Goiás" ) {
+			escreva("A sua região geográfica do Brasil é o Centro-Oeste ")
+			
+		}senao se (Estado_Brasil == "AL"  ou Estado_Brasil == "Alagoas" ou Estado_Brasil == "BA" ou Estado_Brasil == "Bahia"
+		           ou Estado_Brasil == "CE" ou Estado_Brasil == "Ceará" ou Estado_Brasil == "MA" ou Estado_Brasil == "Maranhão" ou 
+				 Estado_Brasil == "PB" ou Estado_Brasil == " Pernambuco" ou Estado_Brasil == "PE" ou Estado_Brasil == "Paraíba" ou 
+				 Estado_Brasil == "PI" ou Estado_Brasil == "Piauí" ou Estado_Brasil == "RN" ou Estado_Brasil == "Rio Grande do Norte" ou
+				 Estado_Brasil == "SE" ou Estado_Brasil == "Sergipe") {
+			escreva("Sua região geográfica do Brasil é Nordeste ")
+			
+		} senao se (Estado_Brasil == "AC" ou Estado_Brasil == "Acre" ou Estado_Brasil == "AP" ou Estado_Brasil == "Amapá" ou 
+		             Estado_Brasil == "AM" ou Estado_Brasil == "Amazonas" ou Estado_Brasil == "PA" ou 
+		             Estado_Brasil == "Pará" ou Estado_Brasil == "RO" ou Estado_Brasil == "Rondônia" ou Estado_Brasil == "RR" ou 
+		             Estado_Brasil == " Roraima" ou Estado_Brasil == "TO" ou Estado_Brasil == "Tocantins") {
+		            escreva( "A sua região geográfica do Brasil é Norte ") 
+		            
+				   } senao se (Estado_Brasil == "DF" ou Estado_Brasil == "Distrito Federal") {
+			 	escreva("A sua localização geográfica do Brasil é a capital do país: unidade federativa autônoma ")
+			 } senao {
+			 	escreva ("A sigla ou descrição feita está escrita incorreta ou não corresponde a nenhuma região do Brasil" )
+			 }
+		}
+}
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 376; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
