@@ -1,16 +1,17 @@
 # 🗺️ Localizador de Regiões Geográficas do Brasil
 
-![Capa do Projeto](https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=2074&auto=format&fit=crop)
+![Capa do Projeto]([https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=2074&auto=format&fit=crop](https://static.vecteezy.com/system/resources/previews/020/040/700/original/map-of-brazil-with-surrounding-borders-free-vector.jpg))
+
 > *Um sistema interativo desenvolvido para identificar rapidamente a região geográfica de qualquer estado brasileiro.*
 
 ---
 
 ## 📸 Demonstração do Programa em Ação
+<img width="1366" height="768" alt="exemplo1" src="https://github.com/user-attachments/assets/c8eb03b6-5a4d-42cc-8346-902526fff0df" />
 <img width="1095" height="212" alt="exemplo2" src="https://github.com/user-attachments/assets/0edab343-5da0-446c-bd6e-b53514f0f8f9" />
 <img width="1353" height="206" alt="exemplo3" src="https://github.com/user-attachments/assets/bcd3588a-2386-400e-9ab5-62ea5ed5b5a2" />
 <img width="1365" height="214" alt="exemplo4" src="https://github.com/user-attachments/assets/c5b794d4-7eeb-433b-bc86-0eb82402a0fc" />
 <img width="1359" height="218" alt="exemplo5" src="https://github.com/user-attachments/assets/07a0849d-ed3e-436b-b028-5d8fcd4958a0" />
-<img width="1366" height="768" alt="exemplo1" src="https://github.com/user-attachments/assets/c8eb03b6-5a4d-42cc-8346-902526fff0df" />
 
 ---
 
