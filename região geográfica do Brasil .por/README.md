@@ -1,6 +1,6 @@
 # 🗺️ Localizador de Regiões Geográficas do Brasil
 
-![Capa do Projeto]([https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=2074&auto=format&fit=crop](https://static.vecteezy.com/system/resources/previews/020/040/700/original/map-of-brazil-with-surrounding-borders-free-vector.jpg))
+![Capa do Projeto]([https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=2074&auto=format&fit=crop](https://static.vecteezy.com/system/resources/previews/020/040/700/original/map-of-brazil-with-surrounding-borders-free-vector)
 
 > *Um sistema interativo desenvolvido para identificar rapidamente a região geográfica de qualquer estado brasileiro.*
 
