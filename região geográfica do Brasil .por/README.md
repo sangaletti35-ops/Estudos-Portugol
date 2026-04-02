@@ -17,9 +17,7 @@
 
 ## 📝 Sobre o Projeto
 
-Este é um dos projetos mais completos e robustos que desenvolvi nos meus estudos de lógica de programação. O objetivo do algoritmo é atuar como um assistente geográfico: ele solicita ao usuário a sigla de um estado brasileiro (ex: "RS", "BA", "SP") ou o seu nome por extenso. 
-
-A partir dessa entrada, o programa processa a informação e exibe na tela exatamente a qual região do país aquele estado pertence (Sul, Sudeste, Centro-Oeste, Nordeste ou Norte), possuindo também uma tratativa especial para o Distrito Federal.
+  O objetivo do algoritmo é atuar como um assistente geográfico: ele solicita ao usuário a sigla de um estado brasileiro (ex: "RS", "BA", "SP") ou o seu nome por extenso. A partir dessa entrada, o programa processa a informação e exibe na tela exatamente a qual região do país aquele estado pertence (Sul, Sudeste, Centro-Oeste, Nordeste ou Norte), possuindo também uma tratativa especial para o Distrito Federal.
 
 ## 🚀 O que foi aplicado neste código
 
