@@ -37,4 +37,4 @@ Para fazer este programa funcionar com precisão, utilizei diversos conceitos fu
 4. No console, digite a sigla do seu estado com letras maiúsculas ou o nome por extenso (ex: "PR" ou "Paraná") e pressione Enter.
 
 ---
-*Desenvolvido com muita dedicação durante os estudos de Lógica de Programação.* 🚀
+*Desenvolvido com muita dedicação durante os estudos de Lógica de Programação (Senai, 02/04/2026).* 🚀
