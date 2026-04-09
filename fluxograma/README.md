@@ -10,7 +10,7 @@ A estrutura lógica do sistema foi construída seguindo rigorosamente o diagrama
 
 > **Nota:** O fluxo de negação ("Não") na primeira verificação de vitória foi um ponto chave para a aplicação da estrutura `senao se`, evitando conflitos na lógica de empate.
 
-![Fluxograma do Sistema de Placar](Fluxograma - Placar Jogo.png)
+![Fluxograma do Sistema de Placar](Fluxograma - "Placar Jogo.png")
 
 *(Insira a imagem do fluxograma na pasta do seu repositório GitHub e altere o texto `nome-da-imagem-do-fluxograma.png` para o nome exato do seu arquivo de imagem).*
 
