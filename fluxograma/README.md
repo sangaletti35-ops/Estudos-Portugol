@@ -8,11 +8,7 @@ O programa recebe o nome e a quantidade de gols de duas equipes, calcula a difer
 
 A estrutura lógica do sistema foi construída seguindo rigorosamente o diagrama abaixo. Foi feito o mapeamento das decisões lógicas (losangos) para estruturas de controle e do processamento (retângulos) para os cálculos matemáticos.
 
-> **Nota:** O fluxo de negação ("Não") na primeira verificação de vitória foi um ponto chave para a aplicação da estrutura `senao se`, evitando conflitos na lógica de empate.
-
 ![Fluxograma do Sistema de Placar](Fluxograma%20-%20Placar%20Jogo.png)
-
-*(Insira a imagem do fluxograma na pasta do seu repositório GitHub e altere o texto `nome-da-imagem-do-fluxograma.png` para o nome exato do seu arquivo de imagem).*
 
 ## 🧠 Habilidades Praticadas
 
