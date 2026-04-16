@@ -48,4 +48,3 @@ Você não está apenas olhando para um script. Ao abrir o arquivo `.por`, você
 // Optei por usar o tipo inteiro para a variável 'produto' não apenas por ser um valor exato, 
 // mas também visando a otimização: variáveis inteiras consomem menos memória e recursos de processamento, 
 // o que é uma prática essencial para a performance em sistemas de grande escala.
-inteiro produto
