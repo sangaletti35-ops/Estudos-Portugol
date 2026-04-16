@@ -5,7 +5,7 @@
 
 Bem-vindo ao **Estudos-Portugol**!
 
-Este repositório reúne todos os exercícios e projetos desenvolvidos na disciplina de **Lógica de Programação**, do **1º semestre** do curso **Técnico em Desenvolvimento de Sistemas** no **SESI SENAI Concórdia**.
+Este repositório reúne alguns exercícios e projetos desenvolvidos na disciplina de **Lógica de Programação**, do **1º semestre** do curso **Técnico em Desenvolvimento de Sistemas** no **SESI SENAI Concórdia**.
 
 Aqui você encontra implementações em **Portugol** (pseudocódigo em português) que exploram os principais conceitos de algoritmos e lógica de programação: estruturas condicionais, repetições, funções, fluxogramas e projetos práticos.
 
