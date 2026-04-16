@@ -1,6 +1,6 @@
 # Estudos-Portugol
 
-![Capa do Repositório](capa.png)
+!(capa.png)
 <img width="1168" height="784" alt="capa" src="https://github.com/user-attachments/assets/37a116a1-b69b-4a4d-914e-e68c70a43bd1" />
 
 ## Sobre o Repositório
