@@ -24,6 +24,19 @@ Este projeto simula o sistema de Ponto de Venda (PDV) de uma **loja virtual de b
 | 🔢 Cálculos Monetários | Realiza operações de desconto e totalização, garantindo arredondamento monetário preciso. | Integração da biblioteca `Matematica`. |
 | 🧾 Cupom Fiscal com Data/Hora | Gera um extrato de compra final com um registro real da transação. | Integração da biblioteca `Calendario`. |
 
+## 📸 Demonstração: O Console Funcionando
+
+Aqui estão capturas de tela do programa em execução:
+
+**Menu e Seleção de Produto:**
+(Deixe uma linha em branco aqui e faça o passo 2)
+
+**Cálculo com Desconto Final:**
+(Deixe uma linha em branco aqui e faça o passo 2)<img width="1366" height="768" alt="Captura de tela 2026-04-16 095555" src="https://github.com/user-attachments/assets/c08e60e2-705d-4426-8a67-2fd01ff5bf02" />
+<img width="1366" height="768" alt="Captura de tela 2026-04-16 095549" src="https://github.com/user-attachments/assets/88b75d52-5efc-4492-b377-999999d8b4e8" />
+<img width="1366" height="768" alt="Captura de tela 2026-04-16 095539" src="https://github.com/user-attachments/assets/8086cd37-ed93-4a63-9dcc-b84f148382fb" />
+
+
 ---
 
 ## 🛠️ O Código: Uma Jornada Comentada
