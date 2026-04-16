@@ -1,6 +1,6 @@
 # 🍪 Doce Sabor - PDV Simples (Simulator de Ponto de Venda)
 
-<img src="Caminho_para_sua_foto_de_banner_que_eu_te_mandei.png" alt="Banner Doce Sabor PDV" width="100%">
+<img src= "https://gemini.google.com/u/1/app/960aa9180869a28d?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all.png" alt="Banner Doce Sabor PDV" width="100%">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge">
