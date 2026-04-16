@@ -1,0 +1,43 @@
+# 🍪 Doce Sabor - PDV Simples (Simulator de Ponto de Venda)
+
+<img src="Caminho_para_sua_foto_de_banner_que_eu_te_mandei.png" alt="Banner Doce Sabor PDV" width="100%">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linguagem-Portugol_Studio-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=for-the-badge">
+</p>
+
+## 📖 O que é este projeto?
+
+Este projeto simula o sistema de Ponto de Venda (PDV) de uma **loja virtual de bolachas artesanais**. O programa é um **Portfólio de Evolução**, focado em demonstrar o aprendizado progressivo de estruturas de decisão (`escolha/caso`), controle condicional (`se/senao`) e o uso de bibliotecas de terceiros para otimização de interface e dados reais.
+
+> 🚀 **O Destaque:** Este projeto não é apenas código funcional; é uma demonstração transparente do meu aprendizado. **Todo o código-fonte foi meticulosamente comentado, parte por parte**, explicando a lógica, a escolha dos tipos de dados e os desafios superados.
+
+## ✨ Funcionalidades Principais
+
+| Recurso | Descrição | Destaque de Evolução |
+| :--- | :--- | :--- |
+| 📋 Menu de Produtos | Exibe uma lista de produtos artesanais com preços e opções numéricas. | Organização de saída de dados (`limpa()`). |
+| ⚖️ Entrada de Quantidade | Permite ao usuário informar o peso (Kg), gerenciando números reais. | Tipagem correta de variáveis (`real` vs `inteiro`). |
+| 🧠 Lógica de Desconto | Aplica regras de negócio específicas para cada produto baseadas na quantidade comprada. | Uso avançado de `se/senao` dentro de um `escolha/caso`. |
+| 🔢 Cálculos Monetários | Realiza operações de desconto e totalização, garantindo arredondamento monetário preciso. | Integração da biblioteca `Matematica`. |
+| 🧾 Cupom Fiscal com Data/Hora | Gera um extrato de compra final com um registro real da transação. | Integração da biblioteca `Calendario`. |
+
+---
+
+## 🛠️ O Código: Uma Jornada Comentada
+
+Você não está apenas olhando para um script. Ao abrir o arquivo `.por`, você encontrará comentários profissionais explicando:
+
+1.  **Por que escolhi cada tipo de dado** (como `real` para preços e `inteiro` para IDs de produto, considerando a otimização de memória).
+2.  **Como a lógica de desconto foi construída**, replicando regras de negócios do mundo real.
+3.  **A justificativa técnica para o uso de cada biblioteca** (`Matematica` e `Calendario`) para garantir a experiência do usuário.
+
+### Exemplo de Comentário Interno:
+
+```portugol
+// Optei por usar o tipo inteiro para a variável 'produto' não apenas por ser um valor exato, 
+// mas também visando a otimização: variáveis inteiras consomem menos memória e recursos de processamento, 
+// o que é uma prática essencial para a performance em sistemas de grande escala.
+inteiro produto
