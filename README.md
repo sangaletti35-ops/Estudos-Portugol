@@ -1,6 +1,7 @@
 # Estudos-Portugol
 
 ![Capa do Repositório](capa.png)
+<img width="1168" height="784" alt="capa" src="https://github.com/user-attachments/assets/37a116a1-b69b-4a4d-914e-e68c70a43bd1" />
 
 ## Sobre o Repositório
 
@@ -51,4 +52,4 @@ Fique à vontade para entrar em contato!
 **Autor:** Mauricio Sangaletti  
 **Curso:** Técnico em Desenvolvimento de Sistemas – SESI SENAI Concórdia  
 **Disciplina:** Lógica de Programação – 1º Semestre  
-**Atualizado em:** Abril/2026<img width="1168" height="784" alt="capa" src="https://github.com/user-attachments/assets/37a116a1-b69b-4a4d-914e-e68c70a43bd1" />
+**Atualizado em:** Abril/2026
