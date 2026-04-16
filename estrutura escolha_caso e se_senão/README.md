@@ -49,3 +49,24 @@ Você não está apenas olhando para um script. Ao abrir o arquivo `.por`, você
 // mas também visando a otimização: variáveis inteiras consomem menos memória e recursos de processamento, 
 // o que é uma prática essencial para a performance em sistemas de grande escala.
 inteiro produto
+
+## 📥 Como baixar e executar este projeto
+
+Se você deseja testar este código na sua própria máquina, o processo é bem simples! Siga o passo a passo abaixo:
+
+### 1. Pré-requisitos
+Para rodar este programa, você precisará ter o **Portugol Studio** instalado no seu computador. 
+* Caso ainda não tenha, você pode baixá-lo gratuitamente buscando por "Portugol Studio UNIVALI" no seu navegador.
+
+### 2. Baixando o Código do GitHub
+* **Opção A (Mais rápida):** Role a página até o topo, clique no botão verde **"<> Code"** e selecione **"Download ZIP"**. Extraia a pasta no seu computador.
+* **Opção B (Via Terminal):** Se você já usa Git, abra o seu terminal e clone este repositório com o comando:
+  > `git clone https://github.com/sangaletti35-ops/Estudos-Portugol/tree/main/estrutura%20escolha_caso%20e%20se_senão.git`
+  *(Não se esqueça de substituir o link pelo link do seu repositório)*
+
+### 3. Executando o Programa
+1. Abra o aplicativo **Portugol Studio**.
+2. No menu superior esquerdo, clique no ícone de pasta amarela ou vá em **Arquivo > Abrir Arquivo**.
+3. Navegue até a pasta onde você baixou o projeto e selecione o arquivo do código (ele terá a extensão `.por`).
+4. Com o código aberto no editor, clique no botão de **Play** (▶️) localizado no menu lateral esquerdo, ou pressione o atalho correspondente no seu teclado.
+5. Pronto! O simulador da loja abrirá no console na parte inferior da tela. Interaja com as opções e teste os descontos!
