@@ -42,8 +42,7 @@ Sinta-se à vontade para explorar, dar sugestões ou entrar em contato!
 Quer discutir algum exercício, trocar ideias ou fazer uma parceria?  
 Fique à vontade para entrar em contato!
 
-📧 **Email:** [mauricio.sangaletti@exemplo.com](sangaletti34@gmail<img width="1168" height="784" alt="capa" src="https://github.com/user-attachments/assets/8d11f19d-947e-4dcb-ba71-6be48f3c18d4" />
-.com)
+📧 **Email:** [mauricio.sangaletti@exemplo.com](mailto:mauricio.sangaletti@exemplo.com)
 
 🌐 GitHub: [@sangaletti35-ops](https://github.com/sangaletti35-ops)
 
@@ -52,4 +51,4 @@ Fique à vontade para entrar em contato!
 **Autor:** Mauricio Sangaletti  
 **Curso:** Técnico em Desenvolvimento de Sistemas – SESI SENAI Concórdia  
 **Disciplina:** Lógica de Programação – 1º Semestre  
-**Atualizado em:** Abril/2026
+**Atualizado em:** Abril/2026<img width="1168" height="784" alt="capa" src="https://github.com/user-attachments/assets/37a116a1-b69b-4a4d-914e-e68c70a43bd1" />
