@@ -25,12 +25,10 @@ Este projeto simula o sistema de Ponto de Venda (PDV) de uma **loja virtual de b
 | 🧾 Cupom Fiscal com Data/Hora | Gera um extrato de compra final com um registro real da transação. | Integração da biblioteca `Calendario`. |
 
 ## 📸 Demonstração: O Console Funcionando
-
-Aqui estão capturas de tela do programa em execução:
 Foto 1: Apresenta o menu de opções de compra da loja e eaguarda o usuário fornecer um número para prosseguir. 
-<img width="1366" height="768" alt="Captura de tela 2026-04-16 095549" src="https://github.com/user-attachments/assets/88b75d52-5efc-4492-b377-999999d8b4e8" />
-foto 2: Aguarda o cliente fornecer o valor em Kg do produto escolhido. 
 <img width="1366" height="768" alt="Captura de tela 2026-04-16 095539" src="https://github.com/user-attachments/assets/8086cd37-ed93-4a63-9dcc-b84f148382fb" />
+foto 2: Aguarda o cliente fornecer o valor em Kg do produto escolhido. 
+<img width="1366" height="768" alt="Captura de tela 2026-04-16 095549" src="https://github.com/user-attachments/assets/88b75d52-5efc-4492-b377-999999d8b4e8" />
 Foto 3: Conclusão do programa com o total a pagar.
 <img width="1366" height="768" alt="Captura de tela 2026-04-16 095555" src="https://github.com/user-attachments/assets/c08e60e2-705d-4426-8a67-2fd01ff5bf02" />
 
