@@ -27,15 +27,12 @@ Este projeto simula o sistema de Ponto de Venda (PDV) de uma **loja virtual de b
 ## 📸 Demonstração: O Console Funcionando
 
 Aqui estão capturas de tela do programa em execução:
-
-**Menu e Seleção de Produto:**
-(Deixe uma linha em branco aqui e faça o passo 2)
-
-**Cálculo com Desconto Final:**
-(Deixe uma linha em branco aqui e faça o passo 2)<img width="1366" height="768" alt="Captura de tela 2026-04-16 095555" src="https://github.com/user-attachments/assets/c08e60e2-705d-4426-8a67-2fd01ff5bf02" />
+Foto 1: Apresenta o menu de opções de compra da loja e eaguarda o usuário fornecer um número para prosseguir. 
 <img width="1366" height="768" alt="Captura de tela 2026-04-16 095549" src="https://github.com/user-attachments/assets/88b75d52-5efc-4492-b377-999999d8b4e8" />
+foto 2: Aguarda o cliente fornecer o valor em Kg do produto escolhido. 
 <img width="1366" height="768" alt="Captura de tela 2026-04-16 095539" src="https://github.com/user-attachments/assets/8086cd37-ed93-4a63-9dcc-b84f148382fb" />
-
+Foto 3: Conclusão do programa com o total a pagar.
+<img width="1366" height="768" alt="Captura de tela 2026-04-16 095555" src="https://github.com/user-attachments/assets/c08e60e2-705d-4426-8a67-2fd01ff5bf02" />
 
 ---
 
