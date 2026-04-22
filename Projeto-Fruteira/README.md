@@ -1,7 +1,5 @@
 # 🍞 Sistema de Caixa - Projeto Fruteira
 
-![Cartaz de Capa](cartaz_sistema_caixa.png)
-
 ## 🎯 Sobre o Projeto
 
 Este repositório contém o código-fonte de um dos meus primeiros projetos de programação. Desenvolvido durante o curso de **Lógica de Programação** no **SESI SENAI Concórdia/SC**, seu objetivo principal é demonstrar a minha evolução na aplicação de conceitos fundamentais da lógica e na estruturação de um programa funcional simples.
