@@ -159,22 +159,7 @@ Qual o valor que o cliente quer sacar? 500.00
 Saque não liberado: valor da conta insuficiente.
 ```
 
----
 
-## 📈 Contexto e Trajetória
-
-Este é o segundo módulo de um repositório que documenta minha evolução progressiva no **Curso Técnico em Desenvolvimento de Sistemas** — do zero ao mercado. Cada pasta representa um novo conceito consolidado:
-
-| Módulo | Conceito |
-|---|---|
-| 📁 Projeto-Fruteira | Entrada/saída, operações aritméticas, bibliotecas |
-| 📁 **Estruturas condicionais: se e senão** | **Tomada de decisão ← você está aqui** |
-| 📁 Cálculo de volume | *(em andamento)* |
-| 📁 Estrutura escolha\_caso e se\_senão | *(em andamento)* |
-| 📁 Fluxograma | *(em andamento)* |
-| 📁 Região geográfica do Brasil | *(em andamento)* |
-
----
 
 ## 👤 Autor
 
