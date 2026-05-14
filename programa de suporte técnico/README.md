@@ -55,7 +55,7 @@ Este projeto nasce para resolver exactamente esse problema. O **Sistema de Contr
 
 ### Visualização 1: Tela de Login e Autenticação
 
-> [ARRASTE OU COLE SUA CAPTURA DE TELA AQUI]
+<img width="1366" height="768" alt="Captura de tela 2026-05-14 090945" src="https://github.com/user-attachments/assets/a148dd48-f9ff-4db7-ad01-216dab110b55" />
 
 *O sistema exige credenciais válidas (`admin` / `suporte123`) antes de conceder acesso. Tentativas incorretas são rejeitadas em laço até que o login seja bem-sucedido.*
 
@@ -63,16 +63,15 @@ Este projeto nasce para resolver exactamente esse problema. O **Sistema de Contr
 
 ### Visualização 2: Menu Principal e Navegação
 
-> [ARRASTE OU COLE SUA CAPTURA DE TELA AQUI]
+<img width="1366" height="768" alt="Captura de tela 2026-05-14 091123" src="https://github.com/user-attachments/assets/e1c32570-4781-4ec4-ab75-49123250029d" />
 
-*O <img width="1366" height="768" alt="Captura de tela 2026-05-14 090945" src="https://github.com/user-attachments/assets/5f89eb0f-08bc-40f0-b037-f8157dbc5486" />
 menu principal apresenta todas as opções disponíveis ao gestor: registar novo chamado, consultar estatísticas ou encerrar a sessão. A navegação é mantida ativa por um laço `faca...enquanto`.*
 
 ---
 
 ### Visualização 3: Fluxo de Registo de Chamado
 
-> [ARRASTE OU COLE SUA CAPTURA DE TELA AQUI]
+<img width="1366" height="768" alt="Captura de tela 2026-05-14 091210" src="https://github.com/user-attachments/assets/1cd75e49-3102-46fa-acbe-92e8d2232603" />
 
 *O operador descreve o problema, selecciona a categoria (Hardware, Software ou Rede) e define o nível de prioridade. O sistema confirma o registo e retorna ao menu.*
 
@@ -80,13 +79,12 @@ menu principal apresenta todas as opções disponíveis ao gestor: registar novo
 
 ### Visualização 4: Resumo Estatístico e Alertas de Prioridade
 
-> [ARRASTE OU COLE SUA CAPTURA DE TELA AQUI]
+<img width="1366" height="768" alt="Captura de tela 2026-05-14 091315" src="https://github.com/user-attachments/assets/09d74009-dc3e-4837-95bc-e00ea427cd16" />
 
 *O relatório final exibe os totais por tipo e prioridade. Se existirem chamados de Alta Prioridade pendentes, o sistema emite um alerta automático ao gestor.*
 
 ---
 
-<img width="1366" height="768" alt="Captura de tela 2026-05-14 090945" src="https://github.com/user-attachments/assets/29e4fc2e-b7a9-467e-978f-f7540f54fa15" />
 ## 🧠 Síntese Técnica
 
 Este projecto é uma **vitrine das estruturas fundamentais da programação estruturada**. Cada funcionalidade foi construída com uma estrutura específica, tornando o código claro, modular e didático.
@@ -271,6 +269,4 @@ fimse
 
 [![GitHub](https://img.shields.io/badge/GitHub-sangaletti35--ops-181717?style=for-the-badge&logo=github)](https://github.com/sangaletti35-ops)
 
-</div><img width="1366" height="768" alt="Captura de tela 2026-05-14 090945" src="https://github.com/user-attachments/assets/0a99acba-e80e-4ffc-9f07-f2af7f2908cf" />
-<img width="1366" height="768" alt="Captura de tela 2026-05-14 090945" src="https://github.com/user-attachments/assets/9378a630-b4f9-4fd3-8e80-1206bdd4ea5e" />
-<img width="1366" height="768" alt="Captura de tela 2026-05-14 090945" src="https://github.com/user-attachments/assets/d93055ac-b65b-42da-96ff-4d02f6f2d6c8" />
+
