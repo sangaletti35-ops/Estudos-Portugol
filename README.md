@@ -41,7 +41,7 @@ Sinta-se à vontade para explorar, dar sugestões ou entrar em contato!
 Quer discutir algum exercício, trocar ideias ou fazer uma parceria?  
 Fique à vontade para entrar em contato!
 
-📧 **Email:** [mauricio.sangaletti@exemplo.com](mailto:mauricio.sangaletti@exemplo.com)
+📧 **Email:** [sangaletti34@gmail.com](mailto:mauricio.sangaletti@exemplo.com)
 
 🌐 GitHub: [@sangaletti35-ops](https://github.com/sangaletti35-ops)
 
