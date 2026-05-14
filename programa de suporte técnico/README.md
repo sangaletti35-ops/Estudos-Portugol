@@ -35,11 +35,11 @@
 
 Numa empresa de tecnologia com dezenas de colaboradores, os problemas técnicos são inevitáveis: computadores que travam, softwares que falham, redes que caem. Sem um sistema estruturado, esses chamados se perdem em e-mails, anotações em papel e mensagens de WhatsApp — resultando em caos, retrabalho e clientes insatisfeitos.
 
-Este projeto nasce para resolver exactamente esse problema. O **Sistema de Controlo de Chamados de Suporte Técnico** oferece:
+Este projeto nasce para resolver exactamente esse problema. O **Sistema de Controle de Chamados de Suporte Técnico** oferece:
 
 | Funcionalidade | Descrição |
 |---|---|
-| 🔐 **Segurança de Acesso** | Controlo de entrada via utilizador e senha com validação em laço |
+| 🔐 **Segurança de Acesso** | Controle de entrada via utilizador e senha com validação em laço |
 | 📋 **Triagem de Incidentes** | Captura da descrição do problema e classificação por categoria |
 | 🚨 **Gestão de Criticidade** | Atribuição de níveis de prioridade (Baixa, Média ou Alta) |
 | 📊 **Relatórios em Tempo Real** | Consolidação estatística de todos os chamados registados |
