@@ -31,7 +31,7 @@
 
 ## 🏢 O Desafio de Negócio
 
-> *"Como uma empresa de tecnologia pode organizar, priorizar e acompanhar os seus chamados de suporte sem perder o controlo?"*
+> *"Como uma empresa de tecnologia pode organizar, priorizar e acompanhar os seus chamados de suporte sem perder o controle?"*
 
 Numa empresa de tecnologia com dezenas de colaboradores, os problemas técnicos são inevitáveis: computadores que travam, softwares que falham, redes que caem. Sem um sistema estruturado, esses chamados se perdem em e-mails, anotações em papel e mensagens de WhatsApp — resultando em caos, retrabalho e clientes insatisfeitos.
 
