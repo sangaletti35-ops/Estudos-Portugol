@@ -25,7 +25,6 @@
 - [Demonstração Visual](#-demonstração-visual)
 - [Síntese Técnica](#-síntese-técnica)
 - [Como Testar o Projeto](#-como-testar-o-projeto-guia-para-leigos)
-- [Próximos Passos](#-próximos-passos--melhorias-sugeridas)
 
 ---
 
