@@ -232,37 +232,6 @@ fimse
 
 ---
 
-## 🔭 Próximos Passos — Melhorias Sugeridas
-
-> O sistema actual é funcional e demonstra domínio das estruturas fundamentais. A seguir, um roteiro de evolução para torná-lo ainda mais profissional:
-
-### 📌 Curto Prazo — Ainda em Portugol
-
-- [ ] **Persistência de sessão:** Exibir o nome do operador logado no cabeçalho de cada ecrã durante a sessão
-- [ ] **Validação de entrada:** Impedir que o campo de descrição seja deixado em branco
-- [ ] **Número de chamado:** Gerar e exibir um ID único para cada chamado registado (ex: `#0001`, `#0002`)
-- [ ] **Filtro por categoria:** Permitir ao gestor ver apenas os chamados de Hardware, apenas de Software, etc.
-
-### 📌 Médio Prazo — Ao Migrar para Python ou Java
-
-- [ ] **Armazenamento em ficheiro:** Gravar os chamados num arquivo `.txt` ou `.csv` para que os dados não se percam ao fechar o programa
-- [ ] **Sistema de múltiplos utilizadores:** Criar perfis distintos para operadores e gestores, com permissões diferentes
-- [ ] **Histórico de chamados:** Registar data e hora de abertura de cada chamado
-- [ ] **Status do chamado:** Adicionar estados como `Aberto`, `Em Atendimento` e `Fechado`
-
-### 📌 Longo Prazo — Versão Web/Profissional
-
-- [ ] **Interface gráfica (GUI):** Migrar para uma aplicação web com HTML/CSS/JavaScript ou um framework como Django (Python)
-- [ ] **Base de dados:** Substituir os ficheiros de texto por uma base de dados real (SQLite → PostgreSQL)
-- [ ] **Dashboard de métricas:** Gráficos visuais com tempo médio de resolução, chamados por operador e SLA
-- [ ] **Notificações:** Envio automático de e-mail ao gestor quando um chamado de Alta Prioridade é aberto
-
----
-
-<div align="center">
-
----
-
 **Desenvolvido com 💙 e lógica por Maurício Sangaletti**
 
 *Parte do portfólio de evolução em Desenvolvimento de Sistemas — SENAI Concórdia/SC*
