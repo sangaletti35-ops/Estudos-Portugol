@@ -110,7 +110,8 @@ Imagem 2:
 
 ---
 
-<details>
+<Imagem 4<img width="1366" height="768" alt="Captura de tela 2026-06-10 103943" src="https://github.com/user-attachments/assets/d06c4871-2589-4d05-9df6-091a02ec8e1d" />
+>
 <summary><strong>📸 Screenshot 4 — Substituição de Negativos / Resultado Final</strong></summary>
 
 <br>
@@ -118,7 +119,7 @@ Imagem 2:
 <!-- Adicione aqui a imagem da opção 6 ou da matriz após alguma modificação -->
 <!-- Exemplo: ![Resultado](./screenshots/04_negativos_substituidos.png) -->
 
-> 💬 *(Seu comentário aqui — ex: "Feedback claro ao usuário: valores negativos encontrados e zerados com sucesso")*
+> 💬 *("Substituição de números negativos por zero na matriz.")*
 
 </details>
 
@@ -183,12 +184,11 @@ Matrizes introduzem pela primeira vez a necessidade de **pensar em duas dimensõ
 **Maurício Sangaletti**  
 Técnico em Desenvolvimento de Sistemas — SESI SENAI Concórdia/SC  
 📍 Lindóia do Sul, Santa Catarina, Brasil  
-
+[![GitHub](https://img.shields.io/badge/GitHub-sangaletti35--ops-181717?style=flat-square&logo=github)](https://github.com/sangaletti35-ops)
 
 ---
 
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-sangaletti35--ops-181717?style=flat-square&logo=github)](https://github.com/sangaletti35-ops)
 
 *"O código não mente. Se compilou e rodou correto — funcionou."*
 
