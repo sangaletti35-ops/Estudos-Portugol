@@ -96,7 +96,8 @@ Imagem 2:
 ---
 
 <Imagem 3>
-[![GitHub](https://img.shields.io/badge/GitHub-sangaletti35--ops-181717?style=flat-square&logo=github)](https://github.com/sangaletti35-ops)
+<img width="1366" height="768" alt="Captura de tela 2026-06-10 103325" src="https://github.com/user-attachments/assets/5a1903db-0a7b-4ebc-988a-c59047ac81fc" />
+
 
 <br>
 
@@ -165,7 +166,7 @@ Imagem 2:
 
 ---
 
-## 📚 Contexto de Aprendizado<img width="1366" height="768" alt="Captura de tela 2026-06-10 103325" src="https://github.com/user-attachments/assets/5a1903db-0a7b-4ebc-988a-c59047ac81fc" />
+## 📚 Contexto de Aprendizado
 
 
 Este exercício faz parte da progressão curricular do curso:
@@ -187,6 +188,7 @@ Técnico em Desenvolvimento de Sistemas — SESI SENAI Concórdia/SC
 ---
 
 <div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-sangaletti35--ops-181717?style=flat-square&logo=github)](https://github.com/sangaletti35-ops)
 
 *"O código não mente. Se compilou e rodou correto — funcionou."*
 
