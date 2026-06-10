@@ -95,7 +95,7 @@ Imagem 2:
 
 ---
 
-<Imagem 3>
+Imagem 3
 <img width="1366" height="768" alt="Captura de tela 2026-06-10 103325" src="https://github.com/user-attachments/assets/5a1903db-0a7b-4ebc-988a-c59047ac81fc" />
 
 
@@ -110,7 +110,8 @@ Imagem 2:
 
 ---
 
-<Imagem 4<img width="1366" height="768" alt="Captura de tela 2026-06-10 103943" src="https://github.com/user-attachments/assets/d06c4871-2589-4d05-9df6-091a02ec8e1d" />
+Imagem 4
+<img width="1366" height="768" alt="Captura de tela 2026-06-10 103943" src="https://github.com/user-attachments/assets/d06c4871-2589-4d05-9df6-091a02ec8e1d" />
 >
 <summary><strong>📸 Screenshot 4 — Substituição de Negativos / Resultado Final</strong></summary>
 
