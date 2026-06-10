@@ -67,7 +67,7 @@ Trabalhar com matrizes exige laços de repetição **aninhados** — um `para` d
 
 ## 🖼️ Capturas de Tela
 
-<Programa em execução!>
+Imagem 1:
 ---<img width="1366" height="768" alt="Captura de tela 2026-06-10 102134" src="https://github.com/user-attachments/assets/be5a5efa-1b9c-4039-b30f-c7cd40603e43" />
 
 <br>
