@@ -67,15 +67,15 @@ Trabalhar com matrizes exige laços de repetição **aninhados** — um `para` d
 
 ## 🖼️ Capturas de Tela
 
-<details>
-<summary><strong>📸 Screenshot 1 — Preenchimento da Matriz</strong></summary>
+<Programa em execução!>
+---<img width="1366" height="768" alt="Captura de tela 2026-06-10 102134" src="https://github.com/user-attachments/assets/be5a5efa-1b9c-4039-b30f-c7cd40603e43" />
 
 <br>
 
 <!-- Adicione aqui a imagem mostrando o programa solicitando os 16 valores ao usuário -->
 <!-- Exemplo: ![Preenchimento](./screenshots/01_preenchimento.png) -->
 
-> 💬 *(Seu comentário aqui — ex: "Interface de entrada pedindo cada valor com numeração sequencial")*
+> 💬 *("Programa em execução!")*
 
 </details>
 
@@ -174,8 +174,6 @@ Variáveis → Condicionais → Laços → Vetores → [ MATRIZES ] → Funçõe
 ```
 
 Matrizes introduzem pela primeira vez a necessidade de **pensar em duas dimensões simultaneamente**, o que prepara para estruturas mais complexas como listas de objetos, tabelas de banco de dados e grids de interface.
-
----<img width="1366" height="768" alt="Captura de tela 2026-06-10 102134" src="https://github.com/user-attachments/assets/be5a5efa-1b9c-4039-b30f-c7cd40603e43" />
 
 
 ## 👨‍💻 Autor
