@@ -68,28 +68,28 @@ Trabalhar com matrizes exige laços de repetição **aninhados** — um `para` d
 ## 🖼️ Capturas de Tela
 
 Imagem 1:
----<img width="1366" height="768" alt="Captura de tela 2026-06-10 102134" src="https://github.com/user-attachments/assets/be5a5efa-1b9c-4039-b30f-c7cd40603e43" />
+<img width="1366" height="768" alt="Captura de tela 2026-06-10 102134" src="https://github.com/user-attachments/assets/be5a5efa-1b9c-4039-b30f-c7cd40603e43" />
 
 <br>
 
 <!-- Adicione aqui a imagem mostrando o programa solicitando os 16 valores ao usuário -->
 <!-- Exemplo: ![Preenchimento](./screenshots/01_preenchimento.png) -->
 
-> 💬 *("Programa em execução!")*
+> 💬 *("Programa em execução! A primeira ação é fornecer ao programa 16 números para completar a matriz 4x4.")*
 
 </details>
 
 ---
 
-<details>
-<summary><strong>📸 Screenshot 2 — Menu Principal</strong></summary>
+Imagem 2:
+<img width="1366" height="768" alt="Captura de tela 2026-06-10 102913" src="https://github.com/user-attachments/assets/7a4262a3-6dd3-48bf-b3fc-d7c115dd386e" />
 
 <br>
 
 <!-- Adicione aqui a imagem do menu com as 7 opções listadas -->
 <!-- Exemplo: ![Menu](./screenshots/02_menu.png) -->
 
-> 💬 *(Seu comentário aqui — ex: "Menu limpo e organizado, exibido após cada operação para nova escolha")*
+> 💬 *("Menu de opções, onde o usuário poderá interagir com o programa e manipular a matriz.")*
 
 </details>
 
