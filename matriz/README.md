@@ -95,15 +95,15 @@ Imagem 2:
 
 ---
 
-<details>
-<summary><strong>📸 Screenshot 3 — Opção em Execução (ex: Soma de Quadrados)</strong></summary>
+<Imagem 3>
+[![GitHub](https://img.shields.io/badge/GitHub-sangaletti35--ops-181717?style=flat-square&logo=github)](https://github.com/sangaletti35-ops)
 
 <br>
 
 <!-- Adicione aqui a imagem de uma das opções sendo executada e mostrando resultado -->
 <!-- Exemplo: ![Execução](./screenshots/03_execucao_opcao2.png) -->
 
-> 💬 *(Seu comentário aqui — ex: "Resultado da soma dos quadrados da 1ª coluna calculado corretamente")*
+> 💬 *("Interação com a opção 2 do menu do programa.")*
 
 </details>
 
@@ -165,7 +165,8 @@ Imagem 2:
 
 ---
 
-## 📚 Contexto de Aprendizado
+## 📚 Contexto de Aprendizado<img width="1366" height="768" alt="Captura de tela 2026-06-10 103325" src="https://github.com/user-attachments/assets/5a1903db-0a7b-4ebc-988a-c59047ac81fc" />
+
 
 Este exercício faz parte da progressão curricular do curso:
 
@@ -182,7 +183,6 @@ Matrizes introduzem pela primeira vez a necessidade de **pensar em duas dimensõ
 Técnico em Desenvolvimento de Sistemas — SESI SENAI Concórdia/SC  
 📍 Lindóia do Sul, Santa Catarina, Brasil  
 
-[![GitHub](https://img.shields.io/badge/GitHub-sangaletti35--ops-181717?style=flat-square&logo=github)](https://github.com/sangaletti35-ops)
 
 ---
 
